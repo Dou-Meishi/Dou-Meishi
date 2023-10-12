@@ -1,4 +1,4 @@
-### Hi there 👋
+Play according to Rules, Natural or Unnatural.
 
 <!--
 **Dou-Meishi/Dou-Meishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
